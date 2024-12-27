@@ -161,7 +161,7 @@ export default function Index() {
 							borderRadius: 8,
 						}}
 					>
-						Made by snehasishcodes
+						Made by snehasish.xyz
 					</Text>
 				</View>
 			) : null}
