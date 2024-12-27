@@ -1,6 +1,11 @@
-# Flappy Bird
+# flappy bird for android using react native
 
-## a simple game i made just for fun and learning :)
+just made for learning :3
+with a little bit of physics and stuff :3
 
-_still in development_
-_more info on how to run soon_
+# [demo](https://youtube.com/shorts/lmwHa1B37h8)
+
+# [download](https://expo.dev/accounts/snehasishkun/projects/flappy-bird/builds/11a5ab0f-96c8-4749-9daf-2e28ae54a513) from expo.dev (safe)
+size: ~70MB / type: .apk
+
+not for iOS or web
